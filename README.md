@@ -1,4 +1,9 @@
-# evoday
+# EvoDay
 Repositório de Materiais do EvoDay
 
-# upload de todos os materiais utilizados no EvoDay
+# Organização
+Subir o material na seguinte hierarquia
+
+- Raiz
+-- Dia
+--- Nome Colaborador
