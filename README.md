@@ -2,7 +2,5 @@
 Repositório de Materiais do EvoDay
 
 # Organização
-Subir o material na seguinte hierarquia
+Subir o material por Tema
 
-1. Tema
-   - Nome Colaborador
